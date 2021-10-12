@@ -1,0 +1,9 @@
+git config : đồng bố server git
+	vd: $git config --global user.name "tên"
+	    $ git confif -- global user.gmaik "gmail"
+git init: tạo 1 reppo ở phía localhost
+
+git add: tạo 1 file bất kì vào tracking. add tất cả sự thay đổi thì thêm * còn k thì để nguyên
+git commit -m:  commit file vào git
+git branch : tạo nhánh mới
+git branch -m: checkou và tạo thêm nhánh mới
